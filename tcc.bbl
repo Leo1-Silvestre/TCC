@@ -1,0 +1,54 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Egea-Roca et al. 2022]{Antreich2022}
+\abntrefinfo{Egea-Roca et al.}{EGEA-ROCA et al.}{2022}
+{EGEA-ROCA, D. et al. Gnss user technology: State-of-the-art and future trends.
+\emph{IEEE Access}, v.~10, p. 39939--39968, 2022.}
+
+\bibitem[European Global Navegation Satellite Systems Agency
+  2020]{Userreport2020}
+\abntrefinfo{EGSA}{EGSA}{2020}
+{EUROPEAN GLOBAL NAVEGATION SATELLITE SYSTEMS AGENCY. \emph{GNSS User
+  Technology Report}: Issue 3. Czech Republic, 2020.}
+
+\bibitem[Hoffmann-Wellenhof 2008]{Wellenhoff2008}
+\abntrefinfo{Hoffmann-Wellenhof}{HOFFMANN-WELLENHOF}{2008}
+{HOFFMANN-WELLENHOF, B. \emph{GNSS - Global Navigation Satellite Systems GPS,
+  GLONASS, Galileo and more}. 1st. ed. Austria: SpringerWienNewYork, 2008.
+ISBN 978-3-211-73012-6.}
+
+\bibitem[Neil, Cosart e Zampetti 2020]{Cosart2020}
+\abntrefinfo{Neil, Cosart e Zampetti}{NEIL; COSART; ZAMPETTI}{2020}
+{NEIL, J.; COSART, L.; ZAMPETTI, G. Precise timing for vehicle navigation in
+  the smart city: An overview.
+\emph{IEEE Communications Magazine}, v.~58, n.~4, p. 54--59, 2020.}
+
+\bibitem[Sadiku e Akujuobi 2004]{MSadiku}
+\abntrefinfo{Sadiku e Akujuobi}{SADIKU; AKUJUOBI}{2004}
+{SADIKU, M.; AKUJUOBI, C. Software-defined radio: a brief overview.
+\emph{IEEE Potentials}, v.~23, n.~4, p. 14--15, 2004.}
+
+\bibitem[Teunissen e Motenbruck 2017]{Teunissen2017}
+\abntrefinfo{Teunissen e Motenbruck}{TEUNISSEN; MOTENBRUCK}{2017}
+{TEUNISSEN, P.~J.; MOTENBRUCK, O. \emph{Handbook of Global Navegation Satellite
+  Systems}. 1st. ed. GER: Springer, 2017.
+ISBN 978-3-319-42926-7.}
+
+\bibitem[Wang 2012]{Antennas2012}
+\abntrefinfo{Wang}{WANG}{2012}
+{WANG, J. J.~H. Antennas for global navigation satellite system (gnss).
+\emph{Proceedings of the IEEE}, v.~100, n.~7, p. 2349--2355, 2012.}
+
+\bibitem[Zavorotny et al. 2014]{Zavorotny2014}
+\abntrefinfo{Zavorotny et al.}{ZAVOROTNY et al.}{2014}
+{ZAVOROTNY, V.~U. et al. Tutorial on remote sensing using gnss bistatic radar
+  of opportunity.
+\emph{IEEE Geoscience and Remote Sensing Magazine}, v.~2, n.~4, p. 8--45,
+  2014.}
+
+\end{thebibliography}
